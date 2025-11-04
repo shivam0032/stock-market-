@@ -1,6 +1,10 @@
 This update enhances the stock market analytics project with advanced statistical and visual analysis tools to better understand relationships and risk among top Indian companies.
 
+
 Key Features Added
+This commit introduces a Python script that uses the yfinance library to download historical stock data for major Indian companies listed on NSE. 
+This script forms the foundation for future analysis and visualization of stock performance trends using pandas, matplotlib, or machine learning models.
+
 
 1. 📊 Correlation Heatmap (Market Relationship Insight)
    - Calculated daily percentage returns for all 20 NSE-listed companies.
